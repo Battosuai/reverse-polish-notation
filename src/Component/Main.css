@@ -2,6 +2,12 @@
   border: 2px solid black;
   display: inline-block;
   margin: auto;
-  width: 40%;
+  width: 60%;
   padding: 1rem;
+
+  margin-top: 5rem;
+}
+
+input {
+  margin: 1rem 1rem;
 }
