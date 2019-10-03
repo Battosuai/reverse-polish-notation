@@ -15,9 +15,6 @@ class Main extends Component {
     this.setState({ errors: "" });
     var string = this.state.userInput;
     string = string.replace(/  +/g, " ");
-    if (/[^0-9.+\-/*^()]/g.test(string)) {
-      console.log("true");
-    }
 
     var result = Calculator(string);
     if (result.error) {
