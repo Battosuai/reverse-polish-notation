@@ -12,6 +12,6 @@ In the project directory, you can run:
 
 Calculation of Reverse Polish Notation
 
-### `RPN Converter added after due time`
+### `RPN Converter added `
 
 Added RPN Converter in a seperate form
